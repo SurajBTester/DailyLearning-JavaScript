@@ -1,0 +1,11 @@
+//Ternary operator
+console.log(x>y?x:y);  //If x is greater than y it will return x value
+                       //And if x is not greater than y it will return y value
+
+
+ //Example
+ var age=20;
+ var voteable = (age < 18) ? "Too young":"Old enough";
+ console.log(voteable);
+
+ //If age is less than 18 it will return too young and if age is greater than 18 it will return Old enough
