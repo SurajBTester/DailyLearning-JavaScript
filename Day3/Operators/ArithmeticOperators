@@ -1,0 +1,24 @@
+//Arithmetic Operators ( +,-,*,/,%,**)
+
+var x=100,y=20;
+
+
+console.log(x+y);//120
+console.log(x-y);//80
+console.log(x*y);//2000
+console.log(x/y);//5
+console.log(x%y);//0
+console.log(5**2);//25
+
+
+a=10;
+//a++;//post increment
+++a;//pre increment
+console.log(a);
+
+b=10;
+
+//b--;//post decrement
+--b; //pre decrement
+console.log(b);
+
