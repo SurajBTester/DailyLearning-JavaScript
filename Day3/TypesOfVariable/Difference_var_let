@@ -1,0 +1,19 @@
+
+//var is function scoped
+
+
+console.log(x);   //It will show undefined in console
+var x=10;
+document.write("Learning JavaScript");
+console.log(x);    //It will show result in console
+
+
+
+
+
+//let is block scoped
+
+console.log(x);   //var_let.js:15 Uncaught ReferenceError: Cannot access 'x' before initialization
+let x=10;
+document.write("Learning JavaScript");
+console.log(x);    
