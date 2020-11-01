@@ -1,0 +1,21 @@
+let person={
+
+firstName:"Suraj",
+lastName:"Bhosale",
+qualification:"BE",
+age:24,
+skills:"Selenium webdriver with java,API,Appium,RestAssured,Postman"
+}
+
+
+
+
+console.log("***************************  Looping Object ***************************");
+
+for(let x in person){
+
+    console.log(x); //prints only property names
+
+    console.log(person[x]);  //print only value of properties
+    console.log(x+" : "+person[x]); //print Property name with value
+}
