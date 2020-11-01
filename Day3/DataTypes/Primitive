@@ -1,0 +1,20 @@
+//Primitive DataTypes
+
+
+let x=100;
+console.log(typeof(x));  //return number in console
+
+let price=100.00;
+console.log("It will return :"+typeof(price));  //return number in console
+
+let name="Suraj";
+console.log("It will return :"+typeof(name));  //return string in console
+
+let bool=true;
+console.log("It will return :"+typeof(bool));  //return boolean in console
+
+let space=null;
+console.log("It will return :"+typeof(space));  //return object in console
+
+let status;
+console.log("It will return :"+typeof(status));  //return undefined in console
