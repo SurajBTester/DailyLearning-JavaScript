@@ -1,0 +1,21 @@
+//LogicalOperators      (&& || !)
+
+
+let a=false;
+let b=true;
+
+//console.log(a && b);  //If a and b are true than it will return true
+                      //And If a=true and b=false than it will return false
+
+//console.log(a || b);    //If a=true and b=true returns true                  
+                        //If a=true and b=false returns true     
+                        //If a=false and b=false returns false 
+                       //If a=false and b=true returns true
+
+
+
+ //In this ! if a=false and b=true                      
+console.log(!b);    //return false
+
+ //In this ! if a=false and b=true                      
+ console.log(!a);    //return true
