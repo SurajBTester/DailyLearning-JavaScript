@@ -5,7 +5,7 @@
 
 let person={
 
-firstName:"Suraj",
+firstName:"SURAJ",
 lastName:"Bhosale",
 qualification:"BE",
 age:24,
