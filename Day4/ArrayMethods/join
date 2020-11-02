@@ -1,0 +1,7 @@
+//Array Methods
+//2 join()
+let player=["kohli","dhoni","rahul","surya"];
+
+
+
+console.log(player.join(" * ")); //print kohli * dhoni * rahul * surya
