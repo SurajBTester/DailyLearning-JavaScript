@@ -1,0 +1,13 @@
+
+
+//concat()  Returns a new array comprised of this array joined with other array's and/or value
+let a=[1,2,3,4];
+let b=["a","b","c","d"];
+
+console.log(a.concat(b));
+/*
+//returns [
+  1,   2,   3,   4,
+  'a', 'b', 'c', 'd'
+]
+*/
