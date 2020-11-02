@@ -1,4 +1,0 @@
-//The Array object lets you store multiple values in a single variable
-let car=[1,"two",3.11];
-
-console.log(car);//It will print [ 1, 'two', 3.11 ]
