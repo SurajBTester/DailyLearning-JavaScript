@@ -1,0 +1,7 @@
+
+
+//5 shift() Removes the first element from an array and returns that element.
+
+let player=["kohli","dhoni","rahul","surya"];
+console.log(player.shift());//kohli
+console.log(player);//[ 'dhoni', 'rahul', 'surya' ]
