@@ -1,0 +1,11 @@
+//Function With Return Type
+
+let result=first(20,20);
+
+
+function first(a,b){
+
+return(a+b);
+
+}
+console.log(result);// return 40
