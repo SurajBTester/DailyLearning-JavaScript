@@ -1,0 +1,16 @@
+//forloop
+
+let cars=["BMW","Mercedez","Tata","Suzuki"];
+
+
+for(let i=0;i<cars.length;i++){
+
+    console.log(cars[i]);
+}
+
+console.log("************************   Using for/of loop    ********************************")
+for(let a in cars){
+
+    console.log(cars[a]);
+
+}
