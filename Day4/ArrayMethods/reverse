@@ -1,0 +1,6 @@
+//reverse() Reverses the order of the elements of an array -- the first becomes the last, and the last becomes the first
+
+let player=["kohli","dhoni","rahul","surya"];
+
+console.log("Array before reverse :"+player);// prints Array before reverse :kohli,dhoni,rahul,surya
+console.log("Array after reverse :"+player.reverse());// prints Array after reverse :surya,rahul,dhoni,kohli
