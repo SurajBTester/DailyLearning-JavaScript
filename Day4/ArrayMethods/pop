@@ -1,0 +1,9 @@
+//Array Methods
+//3 pop() removes last value from array and also print the value
+
+let player=["kohli","dhoni","rahul","surya"];
+
+
+
+console.log(player.pop());//return surya
+console.log(player);//returns [ 'kohli', 'dhoni', 'rahul' ]
