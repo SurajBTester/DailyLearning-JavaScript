@@ -1,0 +1,5 @@
+//Array Methods
+//1 toString()
+let player=["kohli","dhoni","rahul","surya"];
+
+console.log(player.toString()); //print kohli,dhoni,rahul,surya
