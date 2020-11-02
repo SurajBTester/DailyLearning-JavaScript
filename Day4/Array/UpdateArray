@@ -1,0 +1,16 @@
+
+//UPDATE ARRAY
+
+let car=[1,"two",3.11];
+
+console.log("Before Updation :"+car);  //It will print [1,"two",3.11]
+
+
+
+//Update the Array
+car[0]=2;
+
+console.log("After Updation :"+car);
+
+//It will print Before Updation :1,two,3.11
+                After Updation :2,two,3.11
