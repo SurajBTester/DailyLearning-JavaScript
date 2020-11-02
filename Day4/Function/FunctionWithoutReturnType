@@ -1,0 +1,10 @@
+//Functions without return type
+
+
+first(10,20);
+
+function first(a,b){
+
+console.log(a+b);// return 30
+
+}
