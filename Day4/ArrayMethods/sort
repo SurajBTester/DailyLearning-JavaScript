@@ -1,0 +1,7 @@
+
+//sort()  Sorts the elements of an array in ascending order
+
+let player=["kohli","dhoni","rahul","surya"];
+
+console.log(player.sort());
+//prints [ 'dhoni', 'kohli', 'rahul', 'surya' ]
