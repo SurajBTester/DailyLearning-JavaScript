@@ -1,0 +1,6 @@
+
+//4 push() Adds one or more elements to the end of an array and returns the new length of the array
+let player=["kohli","dhoni","rahul","surya"];
+
+console.log(player.push("rahane"));//5
+console.log(player);//[ 'kohli', 'dhoni', 'rahul', 'surya', 'rahane' ]
